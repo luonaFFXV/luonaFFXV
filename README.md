@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<img align="left" height="333" src="	https://media1.tenor.com/m/7oD0eZgzY8UAAAAd/hatsune-miku.gif"  />
+<img align="left" height="333" src="https://media1.tenor.com/m/7oD0eZgzY8UAAAAd/hatsune-miku.gif"  />
 
 ###
 
