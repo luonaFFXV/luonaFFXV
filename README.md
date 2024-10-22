@@ -23,10 +23,6 @@
 
 ###
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luona&radius=5&theme=modern-lilac&area=false&order=5&custom_title=Was%20luona%20lazy?&hide_border=false&hide_title=false" height="260" alt="activity-graph graph"  />
-</div>
 
 ###
