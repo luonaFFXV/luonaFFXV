@@ -5,7 +5,7 @@
 
 ###
 
-<p align="right">Funky little person from hungary soon to live in unknown.<br><br>Name's luona, no capitalised L. We take none of those here.<br><br>Currently learning coding and networking in A level. <br><br>Miku fanatic. darksouls lover.<br><br><br>Head of Project clove</p>
+<p align="right">Funky little person from hungary soon to live in unknown.<br><br>Name's luona, no capitalised L. We take none of those here.<br><br>Currently learning coding and networking in highschool. <br><br>Miku fanatic. darksouls lover.<br><br><br>Head of Project clove</p>
 
 ###
 
@@ -15,11 +15,7 @@
 
 ###
 
-<div align="right">
-  <a href="https://open.spotify.com/user/meter3234">
-    <img width="350" src="https://spotify-recently-played-readme.vercel.app/api?user=meter3234&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 ###
 
