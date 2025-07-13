@@ -5,7 +5,7 @@
 
 ###
 
-<p align="right">Funky little person from hungary soon to live in UK.<br><br>Name's luona, no capitalised L. We take none of those here.<br><br>Currently learning coding and networking in A level. <br><br>Miku fanatic. darksouls lover.<br><br><br>Head of Project clove</p>
+<p align="right">Funky little person from hungary soon to live in unknown.<br><br>Name's luona, no capitalised L. We take none of those here.<br><br>Currently learning coding and networking in A level. <br><br>Miku fanatic. darksouls lover.<br><br><br>Head of Project clove</p>
 
 ###
 
